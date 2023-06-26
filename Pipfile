@@ -8,6 +8,7 @@ openai = "*"
 python-dotenv = "*"
 jupyter = "*"
 notebook = "*"
+sseclient = "*"
 
 [dev-packages]
 
